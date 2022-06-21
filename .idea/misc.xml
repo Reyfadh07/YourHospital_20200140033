@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/drawable/bg_atas.xml" value="0.3310502283105023" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/drawable/bg_rounded_half.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/drawable/ic_back_putih.xml" value="0.3319634703196347" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/drawable/ic_baseline_local_hospital_24.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/activity_daftar_user.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/activity_detailpemesanan.xml" value="0.25" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/activity_editform.xml" value="0.25" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/activity_form.xml" value="0.33" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/detail.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/detailpantirapih.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/detailrsbathesda.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/detailrsdryap.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/detailrsjih.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/detailrspku.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/detailrssarjito.xml" value="0.33" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/detailrssarjitorkamar.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/formpemesanan.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/opening.xml" value="0.33" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/layout/row_data_user.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/yourHospital2/app/src/main/res/menu/menu.xml" value="0.32222222222222224" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
